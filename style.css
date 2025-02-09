@@ -21,6 +21,7 @@ p {
   display:flex;
   align-items: center;
   justify-content: center;
+  background-size:100%;
   background-image: url(tree-8132250_1280.jpg);
 }
 
